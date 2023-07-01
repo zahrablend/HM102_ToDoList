@@ -1,0 +1,8 @@
+﻿## 102. Hm - Reading, Writing XML - Task
+
+Create console app. 
+There should be Task entity with some properties (you can decide). 
+One property should be DueDate and secong IsDone. Create list of to do items. 
+Use LINQ to find items which are not done and store results in xml file. 
+Use LINQ to find items which have to be finished next week and store only task description in xml file.
+
